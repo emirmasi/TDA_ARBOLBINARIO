@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1668205184 source:c:\users\admin\desktop\ejercicios c\tda_arbol\funciones.c
+	"Arbol.h"
+
+1668204902 c:\users\admin\desktop\ejercicios c\tda_arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1668205151 source:c:\users\admin\desktop\ejercicios c\tda_arbol\main.c
+	"Arbol.h"
+
